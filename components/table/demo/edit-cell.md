@@ -135,7 +135,7 @@ class EditableTable extends React.Component {
     const newData = {
       key: count,
       name: `Edward King ${count}`,
-      age: 32,
+      age: 66,
       address: `London, Park Lane no. ${count}`,
     };
     this.setState({
